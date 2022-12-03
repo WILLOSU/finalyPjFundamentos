@@ -1,0 +1,263 @@
+
+body{
+    background: #b2d0e9 url('imagens/fundo.png');
+    font: 16px Arial, Helvetica, sans-serif;
+}  
+    #principal{       
+       width: 900px;
+       margin: 0 auto;
+       background: #b2d0e9
+
+    }
+
+    .titulo-principal{
+        text-align: center;
+        font-size: 2em;
+        margin: 0 0 1em;
+        clear: left;
+        background: #b2d0e9
+        text-shadow: 2px 2px #FF00000;
+       
+       
+    }
+
+    #menu{
+
+        background:#b2d0e9; 
+        padding: 18px;
+       
+    }
+    #conteudo{
+        background: white;
+        padding: 10px
+
+    }
+
+    a{
+        color: #808080;
+        text-decoration: none;
+        font-weight: bold;
+       
+    }
+
+    #rodape{
+              
+        text-align: center;
+        font-weight: bold;
+        background: white;
+        margin: 0 auto;
+    }
+
+    h1{
+        color: block;
+        font-size: 1.2em;
+    }
+    .img-campanha{
+      
+        width: 100%;
+        opacity: 0.3;
+        transition: 400ms;
+        box-shadow: 10px 10px 20px #000000;
+        text-align: center;
+
+    }
+
+    .img-campanha{
+        opacity: 1;
+      
+ }
+
+ .img-campanha2{
+      
+    width: 100%;
+    opacity: 0.3;
+    transition: 400ms;
+    box-shadow: 10px 10px 20px hsl(60, 1%, 15%);
+    text-align: center;
+}
+
+.img-campanha2{
+    opacity: 3;
+  
+}
+
+.img-campanha3{
+      
+    width: 100%;
+    opacity: 0.3;
+    transition: 400ms;
+    box-shadow: 10px 10px 20px hsl(60, 1%, 15%);
+    text-align: center;
+}
+
+.img-campanha3{
+    opacity: 3;
+  
+}
+
+   
+    main{
+        width: 940px;
+        margin: 0 auto;
+    }
+    
+    form{
+        margin: 0px 0;
+    }
+    
+    form label{
+        display: block;
+        font-size: 20px;
+        margin: 0 0 10px;
+    }
+    
+    
+   
+
+    form label, form legend{
+        display: block;
+        font-size: 20px;
+        margin: 0 0 10px;
+
+    }
+
+    .input-padrao{
+        display: block;
+        margin: 0 0 20px;
+        padding: 10px 20px;
+        width: 50%;
+
+    }
+
+    
+    .colorclasse{
+        color:blue;
+    }
+    .checkbok{
+        margin: 10px 0;
+
+    }
+    .enviar{
+        width: 40%;
+        padding: 15px 0;
+        background-color: #b2d0e9;
+        color: white;
+        font-size: 18px;
+        border: none;
+        border-radius: 5px;
+        transition: 1s all;
+    
+        cursor: pointer;
+    }
+
+    .enviar:hover{
+        background: #90bfe4;
+        transform: scale(1.2);
+
+    }
+    
+
+
+    table{
+        margin: 20px 0 40px;
+
+
+    }
+
+    thead{
+        background: #90bfe4;
+        color: white;
+        font-weight: bold;
+
+    }
+
+    td{
+        border: 1px solid #000000;
+        padding: 8px 10px;
+    }
+
+    .copyright{
+        color:#b2d0e9;
+        font-size: 40px;
+        margin: 20px 0 0 0;
+    }
+
+    .bicicletinha{
+        width: 90px;
+        float: left;
+        margin: 0 20px 20px 0;
+    }
+    
+    .itens.before{
+        content: "🚲";
+    }
+    
+    .logobranco{
+        width: 300px;
+    }
+
+    h1{
+        text-align: center;
+    }
+
+        
+
+    
+    .copyright{
+        color: #b2d0e9;
+        font-size: 20px;
+        margin: 2em auto;
+       
+    }
+
+    .copyright-n{
+        text-align: center;
+        color: #b2d0e9;
+        font-size: 10px;
+        text-align: center;
+        background-color:white;
+        width: 900px;
+        margin: 0 auto;
+       
+        
+    }
+
+    .mapa{
+        padding: 3em 0;
+    }
+
+    .mapa p{
+        margin: 0 0 2em;
+        margin-top: 20px;
+    }
+
+    .mapa-conteudo{
+        width: 940px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    
+
+    .video{
+        width: 1066px;
+       margin: 1em 9.3em;
+    }    text-align: center;
+    
+   
+
+   
+    
+    
+    fieldset{
+        height: 0px;
+        width: 1350px;
+        
+        background-color: #b2d0e9;
+    }
+    
+    legend{
+        height: 100%;
+        width: 100%;
+        background: 0;
+       
+    }
